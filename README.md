@@ -1,7 +1,7 @@
 # Dummy
 
 
-### 🧪 Dummy Text to JSON Converter
+### Text to JSON Converter
 
 
  간단한 탭 구문 텍스트 데이터를 JSON 형태로 변환하는 Python 스크립트
