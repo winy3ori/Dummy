@@ -15,7 +15,6 @@ A002	샘플코드	456	2
 A003	임시코드	789	3
 """
 
-# 문자열 줄 단위로 나누고, 빈 줄/공백 제거
 lines = [line.strip() for line in data.strip().split('\n') if line.strip()]
 
 result = []
